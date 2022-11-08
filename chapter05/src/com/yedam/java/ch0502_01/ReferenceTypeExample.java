@@ -51,7 +51,7 @@ public class ReferenceTypeExample {
 		System.out.println("총합 : " + sum);
 		
 		sum = add(new int[] {83, 90, 83});
-		
+		 
 		/*int add(int[] numList) {
 			int sum = 0;
 			for(int i=0; i<numList.length; i++) {

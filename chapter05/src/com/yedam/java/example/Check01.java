@@ -12,7 +12,7 @@ public class Check01 {
 		}
 		System.out.println("총합 : " + sum);
 		double avg = (double) sum / array.length; // 평균은 for문안에 쓰면 안됨 실제로 총합이 결정되는 for문 밖에서 구해야함
-		System.out.printf("평균 : %.2f\n", avg);
+		System.out.printf("평균 : %.2f\n", avg); 
 
 		// 문제 2 ) 배열의 최대값과 최소값을 구하세요 //int는 음수값도 가질 수 있으므로 min = 0; 안됨 최대값 최소값을 임의로 정하면
 		// 안됨.
