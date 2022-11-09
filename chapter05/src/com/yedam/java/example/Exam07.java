@@ -32,7 +32,7 @@ public class Exam07 {
 				}
 			} else if (selectNO == 3) {// 기존에 값 중 가장 최근 값을 하나 삭제
 				//count = 6 -> numList의 0~5까지 
-				numList[--count] =0;
+				numList[--count] =0; 
 				System.out.println("현재 가져온 수의 갯수 : " + count);
 			} else if (selectNO == 4) {// 배열의 값을 전부 출력
 				System.out.println("현재 가지고 있는 수의 갯수 : " + count);
