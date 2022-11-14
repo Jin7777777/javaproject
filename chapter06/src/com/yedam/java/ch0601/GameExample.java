@@ -19,7 +19,7 @@ public class GameExample {
 		System.out.println("====================");
 		user3.getInfo();
 		
-		System.out.println("====================");
+		//System.out.println("====================");
 		//static 필드 사용 
 		System.out.println(Game.gameName);
 		
